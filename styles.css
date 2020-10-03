@@ -38,6 +38,9 @@ header{
     padding: 1em;
     text-align: center;
 }
+body{
+    margin: 0;
+}
 
 img{
     width: 150px;
